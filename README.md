@@ -1,6 +1,9 @@
 # Digitizer
 Interpreting Doctor notes using Deep Learning Techniques
 
+![image](https://github.com/avanivaish/Interpreting-Doctors-Handwritten-Notes-using-Deep-Learning/assets/77274574/c49a7f15-3b9c-478b-9063-f5f7a12f90b3)
+
+
 # 1. Abstract
 In today's world, handwriting is still considered an important means of expressing thoughts, ideas, and language. However, medical doctors have long been notorious for their illegible cursive handwriting, making it difficult for patients, pharmacists, and researchers to decipher their notes, lab reports, and prescriptions. According to recent studies [1], this problem has resulted in 7,000 deaths annually in developed countries like the US. The situation could be even worse in developing countries. To address this issue and make doctor's handwriting more accessible to everyone, we propose a model that employs Deep Convolutional Recurrent Neural Networks (DCRNN) to accurately predict and digitize cursive handwriting in medical notes, lab reports, and prescriptions.
 
